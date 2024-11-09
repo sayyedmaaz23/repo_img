@@ -24,7 +24,6 @@ class _HomepageState extends State<Homepage> {
           IconButton(
             icon: Icon(Icons.settings),
             onPressed: () {
-              // Add action for settings if needed
             },
           ),
         ],
